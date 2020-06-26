@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{F3FB0B73-5DD5-CDD9-8DEE-6902EE412B8E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Project/Scripts/Game/Player.cs">
+    <Files>
+      <File FileName="Assets/Project/Scripts/Game/Player.cs" Line="244" Column="14" />
+      <File FileName="Assets/Project/Scripts/Menu/Web.cs" Line="30" Column="45" />
+      <File FileName="Assets/Project/Scripts/Menu/Register.cs" />
+      <File FileName="Assets/Project/Scripts/Game/GameCamera.cs" />
+      <File FileName="Assets/Project/Scripts/Menu/UserInfo.cs" />
+      <File FileName="Assets/Project/Scripts/Menu/Clear.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bf535ca5-8b7d-42db-baef-ec6b2e20419a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nakamurasorami/Unity/kigyoukaGame/Assets/Project/Scripts/Weapon/Bow.cs" relfile="Assets/Project/Scripts/Weapon/Bow.cs" line="13" column="1" />
+      <Breakpoint file="/Users/nakamurasorami/Unity/kigyoukaGame/Assets/Project/Scripts/Menu/Register.cs" relfile="Assets/Project/Scripts/Menu/Register.cs" line="15" column="1" />
+      <Breakpoint file="/Users/nakamurasorami/Unity/kigyoukaGame/Assets/Project/Scripts/Menu/Login.cs" relfile="Assets/Project/Scripts/Menu/Login.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
